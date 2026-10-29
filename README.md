@@ -31,4 +31,21 @@ Software Dev Student 👩‍💻
 ![Sequência de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Anagomesz2&theme=dark)
 ![Visitantes](https://komarev.com/ghpvc/?username=Anagomesz2&color=blue&style=flat-square)
 
+---
+
+### ౨ৎ ˖ Onde me encontrar ౨ৎ ˖
+
+<a href="https://instagram.com/gomesz.anaz/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://linkedin.com/in/ana-gomes-2a78023ab/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+---
+
+<p align="center">
+  ๋ ࣭ ⭑๋ ࣭ ⭑ Obrigada por visitar o meu perfil! ๋ ࣭ ⭑๋ ࣭ ⭑
+</p>
+
 ───────────────────────────────────────୨ৎ───────────────────────────────────────
