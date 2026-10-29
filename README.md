@@ -1,4 +1,4 @@
-─────────────────────────────────────────────────୨ৎ───────────────────────────────────────────────
+──────────────────────────────────────────────୨ৎ────────────────────────────────────────────
 # Olá, eu sou a Ana Gomes 👋
 
 Software Dev Student 👩‍💻
@@ -28,7 +28,7 @@ Software Dev Student 👩‍💻
 
 ### ಄ Minhas Estatísticas ಄
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Anagomesz2&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Anagomesz2&layout=compact&theme=dark)
+![Sequência de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Anagomesz2&theme=dark)
+![Visitantes](https://komarev.com/ghpvc/?username=Anagomesz2&color=blue&style=flat-square)
 
-─────────────────────────────────────────────────୨ৎ───────────────────────────────────────────────
+───────────────────────────────────────────────୨ৎ─────────────────────────────────────────────
