@@ -1,4 +1,4 @@
-──────────────────────────────────────────────୨ৎ────────────────────────────────────────────
+────────────────────────────────────────୨ৎ───────────────────────────────────────
 # Olá, eu sou a Ana Gomes 👋
 
 Software Dev Student 👩‍💻
@@ -31,4 +31,4 @@ Software Dev Student 👩‍💻
 ![Sequência de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Anagomesz2&theme=dark)
 ![Visitantes](https://komarev.com/ghpvc/?username=Anagomesz2&color=blue&style=flat-square)
 
-───────────────────────────────────────────────୨ৎ─────────────────────────────────────────────
+───────────────────────────────────────୨ৎ───────────────────────────────────────
