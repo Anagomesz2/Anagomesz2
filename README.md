@@ -49,10 +49,15 @@
 ---
 
 <p align="center">
- <h3?> ๋ ࣭ ⭑๋ ࣭ ⭑ Obrigada por visitar o meu perfil!! ๋ ࣭ ⭑๋ ࣭ ⭑</h3>
-  <img src="https://profile-counter.glitch.me/Anagomesz2/count.svg" alt="Visitantes" />
-  <br/><br/>
-  🎀​ feliz por te ter por aqui! 🎀​
+  ˙.⋆ Obrigada por visitar o meu perfil!! ⋆.˙
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anagomesz2&color=ffb7c5&style=flat-square&label=Visitantes" alt="Visitantes" />
+</p>
+
+<p align="center">
+  🎀 feliz por te ter por aqui! 🎀
 </p>
 
 ─────────────────────────────────────────୨ৎ─────────────────────────────────────────
