@@ -29,10 +29,10 @@
 
 ### ۶ৎ Minhas Estatísticas ۶ৎ
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anagomesz2&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anagomesz2&layout=compact&theme=dark" alt="Linguagens mais usadas" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anagomesz2&show_icons=true&theme=rose_pine&include_all_commits=true" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anagomesz2&layout=compact&theme=rose_pine" width="48%" alt="Linguagens Mais Usadas" />
+</p>
 
 ### ✮⋆˙ Onde me encontrar ✮⋆˙ 
 
