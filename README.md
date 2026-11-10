@@ -8,7 +8,9 @@
 
 * 🎓 Aluna de Desenvolvimento de Sistemas no SENAI
 * 📍 Valinhos - SP
-* 🚀 Atualmente estudando Linguagem de Marcação, Banco de Dados, Backend e Projetos de Software.
+* 🎮​ Atualmente estudando Linguagem de Marcação, Banco de Dados, Backend e Projetos de Software
+* 🌟​ Em constante processo de aprendizado e criação
+
 
 ---
 
@@ -47,7 +49,10 @@
 ---
 
 <p align="center">
-  ๋ ࣭ ⭑๋ ࣭ ⭑ Obrigada por visitar o meu perfil!! ๋ ࣭ ⭑๋ ࣭ ⭑
+ <h3?> ๋ ࣭ ⭑๋ ࣭ ⭑ Obrigada por visitar o meu perfil!! ๋ ࣭ ⭑๋ ࣭ ⭑</h3>
+  <img src="https://profile-counter.glitch.me/Anagomesz2/count.svg" alt="Visitantes" />
+  <br/><br/>
+  🎀​ feliz por te ter por aqui! 🎀​
 </p>
 
 ─────────────────────────────────────────୨ৎ─────────────────────────────────────────
