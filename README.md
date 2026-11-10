@@ -1,44 +1,45 @@
 ──────────────────────────────────────────୨ৎ────────────────────────────────────────
-# Olá, sou a Ana Gomes!! 👋
+# Olá, eu sou a Ana Gomes 
 
-𓍢ִ໋🌷͙֒     Software Dev Student
+🌸 Software Dev Student 🌸
 
 ---
 
-### ⋆.ೃ࿔🌸*:･ Sobre mim ⋆.ೃ࿔🌸*:･
+### ๋ ࣭ ⭑๋ ࣭ ⭑ Sobre mim ๋ ࣭ ⭑๋ ࣭ ⭑
 
 * 🎓 Aluna de Desenvolvimento de Sistemas no SENAI
-* 📍 Campinas - SP
-* 🚀 Atualmente estudando Linguagem de Marcação, Banco de Dados, Back End e Projetos de Software
+* 📍 Valinhos - SP
+* 🚀 Atualmente estudando Linguagem de Marcação, Banco de Dados, Backend e Projetos de Software.
 
 ---
 
-### ☆ Tecnologias e Ferramentas ☆ 
+### ⋆˚꩜｡ּ Tecnologias e Ferramentas ⋆˚꩜｡ּ
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23E91E63.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### ಄ Minhas Estatísticas ಄
+### ۶ৎ Minhas Estatísticas ۶ৎ
 
-![Sequência de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Anagomesz2&theme=dark)
-![Visitantes](https://komarev.com/ghpvc/?username=Anagomesz2&color=blue&style=flat-square)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anagomesz2&show_icons=true&theme=rose_pine&include_all_commits=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anagomesz2&layout=compact&theme=rose_pine" alt="Linguagens mais usadas" height="165" />
+</div>
 
----
+### ✮⋆˙ Onde me encontrar ✮⋆˙ 
 
-### ౨ৎ ˖ Onde me encontrar ౨ৎ ˖
-
-<a href="https://instagram.com/gomesz.anaz/" target="_blank">
+<a href="https://instagram.com/TEU_USUARIO_INSTAGRAM" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://linkedin.com/in/ana-gomes-2a78023ab/" target="_blank">
+<a href="https://linkedin.com/in/TEU_USUARIO_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
