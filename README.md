@@ -30,8 +30,8 @@
 ### ۶ৎ Minhas Estatísticas ۶ৎ
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anagomesz2&theme=rose_pine" width="48%" alt="Sequência de Commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anagomesz2&theme=rose_pine" width="48%" alt="Resumo do Perfil" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anagomesz2&theme=pink&background=181825&border=ff79c6&stroke=ff79c6&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ff79c6&sideLabels=ff79c6&dates=ff79c6" width="48%" alt="Sequência de Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anagomesz2&theme=rose" width="48%" alt="Resumo do Perfil" />
 </div>
 
 ### ✮⋆˙ Onde me encontrar ✮⋆˙ 
