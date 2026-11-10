@@ -12,11 +12,11 @@
 ---
 
 ### ⋆˚𝜗𝜚˚⋆ Sobre mim ⋆˚𝜗𝜚˚⋆
- 
-📍 Valinhos - SP  
-🎓 Aluna de Desenvolvimento de Sistemas no SENAI 
-⭐ Em constante processo de aprendizado e criação
-🚀 Atualmente estudando Linguagem de Marcação, Banco de Dados, Backend e Projetos de Software  
+
+* 🎓 **Formação:** Aluna de Desenvolvimento de Sistemas no SENAI
+* 📍 **Localização:** Campinas - SP
+* 🚀 **Estudando:** Linguagem de Marcação, Banco de Dados, Backend e Projetos de Software
+* ⭐ **Motto:** Em constante processo de aprendizado e criação
 
 ---
 
