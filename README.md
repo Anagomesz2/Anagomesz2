@@ -1,8 +1,13 @@
 ──────────────────────────────────────────୨ৎ────────────────────────────────────────
 
-# Olá, eu sou a Ana Gomes
+<div align="center">
 
-🌸 Software Dev Student 🌸
+# ⋆˚🌸 Olá, eu sou a Ana Gomes! 🌸˚⋆
+
+💻 **Software Development Student**  
+♡ Transformando ideias em código ♡
+
+</div>
 
 ---
 
