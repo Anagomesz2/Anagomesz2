@@ -7,7 +7,7 @@
 
 ---
 
-### ⋆.i™*:･ Sobre mim ⋆.i™*:･
+### ⋆˚𝜗𝜚˚⋆ Sobre mim ⋆˚𝜗𝜚˚⋆
 
 🎓 Aluna de Desenvolvimento de Sistemas no SENAI  
 📍 Valinhos - SP  
