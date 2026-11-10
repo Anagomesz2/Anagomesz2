@@ -16,7 +16,7 @@
 * 🎓 **Formação:** Aluna de Desenvolvimento de Sistemas no SENAI
 * 📍 **Localização:** Campinas - SP
 * 🚀 **Estudando:** Linguagem de Marcação, Banco de Dados, Backend e Projetos de Software
-* ⭐ **Motto:** Em constante processo de aprendizado e criação
+* ⭐ **Em constante processo de aprendizado e criação**
 
 ---
 
