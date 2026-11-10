@@ -47,10 +47,8 @@
 
 ### ★⋆ Onde me encontrar ★⋆
 
-<p align="center">
   <a href="https://instagram.com/gomesz.anaz" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFB7C5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/ana-gomes-2a78023ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=333333" alt="LinkedIn" /></a>
-</p>
 
 ---
 
