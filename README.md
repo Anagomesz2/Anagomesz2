@@ -16,15 +16,15 @@
 ### ⋆°࿔. ⊙ Tecnologias e Ferramentas ⊙ ⋆°࿔.
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=333" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-E91E63?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FF8DA1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Figma-DB7093?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-E91E63?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-E6E6FA?style=for-the-badge&logo=css3&logoColor=333333" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=333333" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-F2C4CE?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-D8BFD8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=333333" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-FFB7C5?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=333333" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-D8BFD8?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
