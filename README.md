@@ -8,11 +8,11 @@
 ---
 
 ### ⋆˚𝜗𝜚˚⋆ Sobre mim ⋆˚𝜗𝜚˚⋆
-
-🎓 Aluna de Desenvolvimento de Sistemas no SENAI  
+ 
 📍 Valinhos - SP  
+🎓 Aluna de Desenvolvimento de Sistemas no SENAI 
+⭐ Em constante processo de aprendizado e criação
 🚀 Atualmente estudando Linguagem de Marcação, Banco de Dados, Backend e Projetos de Software  
-⭐ Em constante processo de aprendizado e criação  
 
 ---
 
