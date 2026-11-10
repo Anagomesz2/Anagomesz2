@@ -13,7 +13,7 @@
 
 ---
 
-### ⋆°࿔. ⊙Tecnologias e Ferramentas ⋆°࿔.
+### ⋆°࿔. ⊙ Tecnologias e Ferramentas ⊙ ⋆°࿔.
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
