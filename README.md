@@ -36,10 +36,10 @@
 
 ### ✮⋆˙ Onde me encontrar ✮⋆˙ 
 
-<a href="https://instagram.com/TEU_USUARIO_INSTAGRAM" target="_blank">
+<a href="https://instagram.com/gomesz.anaz" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://linkedin.com/in/TEU_USUARIO_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/ana-gomes-2a78023ab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
