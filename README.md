@@ -4,7 +4,7 @@
 
 # ⋆˚🌸 Olá, eu sou a Ana Gomes! 🌸˚⋆
 
-💻 **Software Development Student**  
+💻 **Software Development Student** 💻
 ♡ Transformando ideias em código ♡
 
 </div>
