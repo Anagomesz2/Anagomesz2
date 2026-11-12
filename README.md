@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ⋆˚🌷 Olá, eu sou a Ana Gomes! 🌷˚⋆
+# ⋆˚🌸 Olá, eu sou a Ana Gomes! 🌸˚⋆
 
 💻 **Software Development Student** 💻
 <br/>
