@@ -10,7 +10,7 @@
 
 ---
 
-### ⋆˚𝜗𝜚˚⋆ Sobre mim ⋆˚𝜗𝜚˚⋆
+### ⋆˚𝜗𝜚˚⋆ About me ⋆˚𝜗𝜚˚⋆
 
 * 🎓 **Formação:** Aluna de Desenvolvimento de Sistemas no SENAI
 * 📍 **Localização:** Campinas - SP
@@ -19,7 +19,7 @@
 
 ---
 
-### ⋆°࿔. ⊙ Tecnologias e Ferramentas ⊙ ⋆°࿔.
+### ⋆°࿔. ⊙ Tech Stack & Tools ⊙ ⋆°࿔.
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 𝄞 Minhas Estatísticas 𝄞
+### 𝄞 My Stats 𝄞
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anagomesz2&theme=rose_pine&background=181825&border=ff79c6&stroke=ff79c6&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ff79c6&sideLabels=ff79c6&dates=ff79c6" width="48%" alt="Sequência de Commits" />
@@ -44,7 +44,7 @@
 
 ---
 
-### ★⋆ Onde me encontrar ★⋆
+### ★⋆ Where to find me ★⋆
 
   <a href="https://instagram.com/gomesz.anaz" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFB7C5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/ana-gomes-2a78023ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=333333" alt="LinkedIn" /></a>
