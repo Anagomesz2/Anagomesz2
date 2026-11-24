@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Ana;I'm+16+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Ana;I'm+16+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ### ⋆˚𝜗𝜚˚⋆ About me ⋆˚𝜗𝜚˚⋆
 
 * 🎓 **Formação:** Aluna de Desenvolvimento de Sistemas no SENAI
-* 📍 **Localização:** Campinas - SP
+* 📍 **Localização:** Valinhos - SP
 * 🚀 **Atualmente estudando:** Linguagem de Marcação, Banco de Dados, Backend e Projetos de Software
 * ⭐ **Em constante processo de aprendizado e criação**
 
